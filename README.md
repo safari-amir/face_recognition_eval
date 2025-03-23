@@ -66,7 +66,7 @@ face_recognition_eval/
    - `requests`
    - `opencv-python`
    - `numpy`
-   - `face_recognition`
+   - `insightface`
 
 ## Usage
 
