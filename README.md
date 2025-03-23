@@ -128,16 +128,3 @@ The server (implemented using FastAPI in `main.py` and supporting functions in `
 - **Dataset Paths:**  
   Make sure that your dataset files and corresponding images are placed in the expected directories (e.g., `data/lfw/`, `data/calfw/`, `data/cplfw/`). You may need to modify the paths in `FacePairDataLoader` if your directory structure differs.
 
-## Contributing
-
-Contributions are welcome! To contribute:
-
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature/my-feature`.
-3. Make your changes and commit them.
-4. Push your branch: `git push origin feature/my-feature`.
-5. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
